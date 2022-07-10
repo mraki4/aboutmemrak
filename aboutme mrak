@@ -1,0 +1,62 @@
+<html>
+  <head>
+    <title>Обо мне</title>
+    <link rel="stylesheet" href="style.css"/>
+  </head>
+  <body>
+ 
+
+
+
+    
+    <main>
+
+
+        <div class = "ggg">
+      <h1>Андреев Арсений</h1>
+      </div>
+      <ul>
+        <li>люблю играть в игры </li>
+        <li>катаюсь на скейте</li>
+        <li>делаю сайты</li>
+        
+      </ul>
+
+
+      <ul>  
+       <li>  Люблю кошек </li>
+       <li>  занимаюсь спортом </li>
+        <li>   13 годиков :)</li>
+      </ul>
+
+     <img style="display: block;-webkit-user-select: none;margin: auto;cursor: zoom-in;background-color: hsl(0, 0%, 90%);transition: background-color 300ms;" src="https://pixelbox.ru/wp-content/uploads/2021/08/ava-animation-cats-66.gif" width="411" height="239">
+
+
+     <p> Этот сайт настолько короткий потому-что мне лень его делать, 
+    я просто не знаю что можно написать здесь. 
+    А это просто ссылки если вам скучно в интернете.</p>
+    <ul>
+    <li> Карта заброшеных домов по всему миру <a href="https://www.oshimaland.com/">oshimaland.com</a> </li>
+   <li>  на этом сайте люди деляться тем что их бесит <a href="http://www.urlw.ru/w.меня-бесит.рф">меня-бесит.рф</a> </li>
+   <li>  сайт для создания 8-bit картинок <a href="https://8biticon.com/">8biticon.com</a> </li>
+   <li>   этому сайту можно напеть песню и он ее найдет   <a href="https://www.midomi.com/">midomi.com</a></li> 
+   <li> Здесь можно исправить ход истории человечества <a href="https://abw.blue/index_en.php?e=1">abw.blue/index_en.php?e=1</a> </li>
+        </ul>
+
+
+        А это мой вк
+        
+    
+    
+    
+     
+     
+      
+    </main>
+    <footer>
+     
+      <a class="social" href="https://vk.com/minegd"><img src="/uploads/2021/04/Group%201_0_1618254571.png" width="100px" height="100px"/></a>
+    
+    </footer>
+  </body>
+</html>
